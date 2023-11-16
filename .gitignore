@@ -1,4 +1,6 @@
 *.DS_STORE
 .vs
-Debug/
-Release/
+/Debug
+/Release
+/Lab1/Debug
+/Lab1/Release
