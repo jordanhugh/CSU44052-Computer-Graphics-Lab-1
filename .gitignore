@@ -1,6 +1,10 @@
-*.DS_STORE
-.vs
+/.vs
 /Debug
 /Release
 /Lab1/Debug
 /Lab1/Release
+*.DS_STORE
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
